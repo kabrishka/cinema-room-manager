@@ -1,1 +1,0 @@
-val myEmptyList = mutableListOf<String>()
